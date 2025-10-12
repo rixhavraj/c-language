@@ -34,7 +34,7 @@ int main(){
     }
     while((temp<a[j]) & (j>=0)){
         a[j+1]=a[j];
-        j=j-1
+        j=j-1;
     }
-    a[]
+
 }
